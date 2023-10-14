@@ -136,13 +136,3 @@ tamanho_do_arquivo,extensao,data_de_criacao,numero_de_acessos,sistema_de_arquivo
 2387,.jpg,2021-08-19,7,exFAT,0
 4820,.docx,2021-05-21,32,NTFS,1
 128,.ini,2021-09-02,1,NTFS,0
-
-## Contribute
-
-**[Alvaro Richard]** -
-**[Daniel Alvarenga]** -
-**[Vitor Carvalho]**
-
-[Alvaro Richard]: https://github.com/alvarorichard
-[Daniel Alvarenga]: https://github.com/Daniel-Alvarenga
-[Vitor Carvalho]: https://github.com/VitorCarvalho67
